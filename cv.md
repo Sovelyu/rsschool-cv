@@ -16,7 +16,7 @@ I'm 17 years old. I've been learning python for 2 years, during this time i lear
 * Git, GitHub
 * VS Code, PyCharm, Atom
 * QtDesigner 
-********
+*********
 ##### Languages:
 * English - Intermediate/Upper-intermediate (according to the online [test](www.efset.org))
 * Russian - Native
